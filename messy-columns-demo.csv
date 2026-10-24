@@ -1,0 +1,13 @@
+OrderID,order_date_2023,Cust Name,SALES_REP,qty_sold_units,Revenue USD $,Internal_Cost_Code,temp_col1,Notes_INTERNAL,Region Code
+1001,2026-10-01,Barry Biscuit,Anna Lee,2,24.50,CC-881,ignore,do not publish,W
+1002,2026-10-02,Coffee Corner,Ben Ortiz,12,180.00,CC-204,ignore,fragile,W
+1003,2026-10-03,Metro Mart,Anna Lee,5,75.25,CC-552,ignore,,E
+1004,2026-10-04,Barry Biscuit,Carlos Diaz,40,600.00,CC-881,ignore,bulk order,E
+1005,2026-10-05,Green Grocer,Ben Ortiz,8,96.40,CC-317,ignore,,W
+1006,2026-10-06,Campus Cafe,Anna Lee,15,225.00,CC-204,ignore,repeat customer,S
+1007,2026-10-07,Little Deli,Carlos Diaz,3,41.75,CC-552,ignore,,S
+1008,2026-10-08,Metro Mart,Ben Ortiz,20,310.00,CC-317,ignore,do not publish,E
+1009,2026-10-09,Green Grocer,Anna Lee,7,88.90,CC-881,ignore,,W
+1010,2026-10-10,Coffee Corner,Carlos Diaz,10,149.99,CC-204,ignore,fragile,S
+1011,2026-10-11,Barry Biscuit,Anna Lee,25,375.00,CC-552,ignore,bulk order,W
+1012,2026-10-12,Little Deli,Ben Ortiz,4,52.00,CC-317,ignore,,E
