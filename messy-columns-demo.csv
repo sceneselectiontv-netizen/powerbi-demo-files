@@ -1,4 +1,4 @@
-OrderID,order_date_2023,Cust Name,SALES_REP,qty_sold_units,Revenue USD,Internal_Cost_Code,temp_col1,Notes_INTERNAL,Region Code
+OrderID,order_date_2023,Cust Name,SALES_REP,qty_sold_units,Revenue USD $,Internal_Cost_Code,temp_col1,Notes_INTERNAL,Region Code
 1001,2026-10-01,Barry Biscuit,Anna Lee,2,24.50,CC-881,ignore,do not publish,W
 1002,2026-10-02,Coffee Corner,Ben Ortiz,12,180.00,CC-204,ignore,fragile,W
 1003,2026-10-03,Metro Mart,Anna Lee,5,75.25,CC-552,ignore,,E
